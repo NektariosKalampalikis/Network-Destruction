@@ -1,6 +1,6 @@
 # Network-Destruction
-dasda
+This is a repository that contains a personal solution to the <a href="https://louridas.github.io/rwa/assignments/network-destruction/">Network Destruction assignment</a>  of the book <a href="https://louridas.github.io/rwa/">Real World Algorithms by Panos Louridas</a> on python. The assignment requires the use of only python built-in modules. The code was written on Python version 3.8.5.
 
 # How to use
-
-# paper/comes from book
+The file network_destruction_assignment.py is the exact solution to the assignment from the book. On the other side, the file network_destruction.py is a cleaned-up version which contains only the implementation of the algorithm described in the scientific article: <a href="https://www.nature.com/articles/nature14604">Flaviano Morone and Hernán A. Makse. Destruction perfected</a>. Both of the files need a .txt file to create a graph. I have included examples from the assignment page and also a python script (produce_tests.py) to easily create such .txt files. </br>
+The assignment code requires the use of the command console (see assignment page for extra info) while the cleaned-up version does not. I recommend having the .txt files in the same folder as the code.
